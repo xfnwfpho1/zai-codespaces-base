@@ -1,6 +1,6 @@
 {
-  "name": "bench-python-312",
-  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "name": "bench-js-node22",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
   "features": {
     "ghcr.io/devcontainers/features/sshd:1": {}
   }
