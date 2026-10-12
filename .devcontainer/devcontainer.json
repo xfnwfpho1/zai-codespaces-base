@@ -1,7 +1,4 @@
 {
-  "name": "bench-js-node22",
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
-  "features": {
-    "ghcr.io/devcontainers/features/sshd:1": {}
-  }
+  "name": "bench-universal-2",
+  "image": "mcr.microsoft.com/devcontainers/universal:2"
 }
